@@ -8,4 +8,4 @@
 * Успешные: 100% (5)
 * Неуспешные: 0% (0)
 ### Очёт по результатам тестирования
-Отчёт по результатам тестирования <a href="https://github.com/Ash196/TestLogin/issues/1>Allure</a>
+Отчёт по результатам тестирования <a href="https://github.com/Ash196/TestLogin/issues/1">Allure</a>
