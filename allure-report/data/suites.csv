@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Nov 30 14:23:56 MSK 2023","Thu Nov 30 14:23:58 MSK 2023","1289","Surefire suite","Surefire test","LoginTests","LoginTests","IncorrectPassword","IncorrectPassword",""
+"passed","Thu Nov 30 14:23:55 MSK 2023","Thu Nov 30 14:23:56 MSK 2023","1399","Surefire suite","Surefire test","LoginTests","LoginTests","IncorrectUsername","IncorrectUsername",""
+"passed","Thu Nov 30 14:23:49 MSK 2023","Thu Nov 30 14:23:55 MSK 2023","5830","Surefire suite","Surefire test","LoginTests","LoginTests","AllDataIsCorrect","AllDataIsCorrect",""
+"passed","Thu Nov 30 14:23:58 MSK 2023","Thu Nov 30 14:23:59 MSK 2023","1413","Surefire suite","Surefire test","LoginTests","LoginTests","EmptyUsernameField","EmptyUsernameField",""
+"passed","Thu Nov 30 14:23:59 MSK 2023","Thu Nov 30 14:24:01 MSK 2023","2072","Surefire suite","Surefire test","LoginTests","LoginTests","EmptyPasswordField","EmptyPasswordField",""
